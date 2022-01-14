@@ -94,7 +94,7 @@ nav .links a {
 	display: block;
 	font-size: 1rem;
   font-weight: 500;
-	color: rgb(0, 0, 0);
+	color: #1D1A1B;
 	text-decoration: none;
 }
 
@@ -128,7 +128,7 @@ nav .links a:hover {
   font-size: 1.5rem;
   font-weight: 900;
   /* text-transform: uppercase !important; */
-  color: rgb(0, 0, 0);
+  color: #1D1A1B;
   width: 100%;
   padding: auto;
 }
@@ -141,7 +141,7 @@ nav .links a:hover {
 .hero-container a{
   font-size: 1rem;
   font-family: "Inter" !important;
-  color: rgb(0, 0, 0);
+  color: #1D1A1B;
 }
 
 .hero-container a:hover{
