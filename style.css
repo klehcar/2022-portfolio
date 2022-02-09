@@ -142,6 +142,7 @@ nav .links a:hover {
   font-size: 1.2rem;
   font-family: "Inter" !important;
   color: #1D1A1B;
+  font-weight: 500;
 }
 
 .hero-container a:hover{
