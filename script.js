@@ -95,38 +95,38 @@ $(document).on("click", "li", function() {
 
 var image = document.getElementsByClassName("hero-img-parallax");
 new simpleParallax(image, {
-  scale: 1.1
+  scale: 1
 });
 
 var image = document.getElementsByClassName("project-1-img");
 new simpleParallax(image, {
   // scale:1.2
-  scale: 1.5
+  scale: 1
 });
 
 var image = document.getElementsByClassName("project-2-img");
 new simpleParallax(image, {
-  scale: 1.5
+  scale: 1
 });
 
 var image = document.getElementsByClassName("project-3-img");
 new simpleParallax(image, {
-  scale: 1.5
+  scale: 1
 });
 
 var image = document.getElementsByClassName("project-4-img");
 new simpleParallax(image, {
-  scale: 1.5
+  scale: 1
 });
 
 var image = document.getElementsByClassName("project-5-img");
 new simpleParallax(image, {
-  scale: 1.5
+  scale: 1
 });
 
 var image = document.getElementsByClassName("project-6-img");
 new simpleParallax(image, {
-  scale: 1.5
+  scale: 1
 });
 
 // Select all links with hashes
